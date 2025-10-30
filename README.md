@@ -25,7 +25,7 @@ cd agendamento-transferencias-app && cd agendamento-transferencias-ui
 npm install
 
 # 3. Execute em modo desenvolvimento
-npm run serve
+npm run dev
 ```
 
 Aplicação estará em: **http://localhost:5173**
